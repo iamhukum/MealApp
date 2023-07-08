@@ -46,10 +46,12 @@ body {
 
 /* meal card */
 #card {
-  background-color: #FF3044;
+  #card {
+  background-color: #ff8230;
   padding: 10px;
-  color: white;
+  color: black;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 }
 
 #card img {
