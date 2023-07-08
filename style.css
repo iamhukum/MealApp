@@ -45,14 +45,14 @@ body {
 
 
 /* meal card */
-#card {
+
   #card {
   background-color: #ff8230;
   padding: 10px;
   color: black;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
-}
+
 
 #card img {
   border-radius: 50%;
